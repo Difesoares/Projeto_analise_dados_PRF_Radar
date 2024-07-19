@@ -11,4 +11,4 @@ Este repositório contém dados abertos sobre os radares instalados nas rodovias
 ## Objetivo
 O objetivo desse projeto é entender quais os tipos do acidente, localização, frequência a sua relação com o posicionamento dos radares. Dessa, forma pode gerar insight para recomendações e melhorias. 
 
-OBS.: Caso queira visualizar o mapa criado pela biblioteca FOLIUM, sugiro que o notebook seja aberto diretamente no colab, através da opção fornecida pelo próprio github!
+OBS.: Para visualizar o mapa criado pela biblioteca FOLIUM, sugiro que o notebook seja aberto diretamente no colab.
